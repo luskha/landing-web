@@ -329,27 +329,48 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
-#services i.fa {
-  font-size: 42px;
-  width: 120px;
-  height: 120px;
-  padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  border-radius: 12%;
-  color: #fff;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+#services .service-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #fff;
+  transition: all 0.3s ease;
+  max-width: 500px; /* set a maximum width for the card */
+  min-height: 320px; /* set a minimum height for the card */
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
-#services h3 {
-  font-weight: 500;
-  padding: 5px 0;
-  color: #fff;
+
+#services .service-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-#services p {
-  color: rgba(255, 255, 255, 0.75);
+
+#services .service-card i {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #f4623a;
 }
-#services .service-desc {
-  margin-bottom: 40px;
+
+#services .service-card h3 {
+  margin: 10px 0;
+  font-size: 20px;
 }
+
+#services .service-card p {
+  font-size: 14px;
+  color: #777;
+}
+
+/* add this to make the card height flexible */
+#services .service-card {
+  display: flex;
+  flex-direction: column;
+}
+
+#services .service-card .service-desc {
+  flex-grow: 1;
+}
+
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
