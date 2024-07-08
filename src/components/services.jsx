@@ -5,10 +5,9 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Passeios</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Descubra os melhores destinos da região com nossos emocionantes passeios turísticos. Oferecemos diversas opções para você explorar paisagens deslumbrantes, praias paradisíacas e atrações únicas. Escolha seu roteiro e prepare-se para uma experiência inesquecível.
           </p>
         </div>
         <div className="row">

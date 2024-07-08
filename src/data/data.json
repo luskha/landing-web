@@ -1,21 +1,16 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Valderir Jeri",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "A Valderir Jeri é a empresa líder em passeios turísticos, oferecendo experiências inesquecíveis com a máxima segurança e conforto. Nossa missão é proporcionar momentos únicos para você e sua família, explorando as mais belas paisagens da região.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Atendimento de Qualidade: Nossa equipe é dedicada e está sempre pronta para atender todas as suas necessidades e garantir que sua viagem seja perfeita.",
+      "Preços Atraentes: Oferecemos os melhores preços do mercado, sem comprometer a qualidade dos nossos serviços."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Confiabilidade: Com anos de experiência, somos reconhecidos por nossa seriedade e compromisso com a satisfação dos nossos clientes"
     ]
   },
   "Gallery": [
@@ -153,9 +148,9 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "phone": "+55 85 98648-0720",
+    "email": "valderi_jeri@gmail.com",
+    "instagram": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
