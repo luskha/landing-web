@@ -1,37 +1,25 @@
-# React JS Landing Page Template
-
-**
-
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
-
-**
+### React JS Landing Page Template
 
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+### <a href="https://react-landing-page-template-93ne.vercel.app/">DEMO AO VIVO</a>
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## Descrição
+Este é um template de landing page baseado em ReactJS, ideal para uma empresa ou serviço startup com visualização de uma página. O design é inspirado em um template do <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com</a>.
+Todos os dados 'visuais' podem ser facilmente modificados alterando o arquivo data.json.
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+## Faça-o Seu!
+### 1. Preparativos
+Você precisará ter o <a href="https://nodejs.org/">Node JS</a> instalado no seu computador.
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+### 2. Clonar Arquivos
+Após clonar os arquivos, você terá que executar ```yarn``` seguido por ```yarn start``` no CLI.
+### 3. Adicione seus próprios dados
+Altere os dados no arquivo ```data.json``` e adicione qualquer imagem na pasta ```public/img/```.
+Você também pode alterar os estilos modificando os arquivos na pasta ```public/css```.
+Se precisar que o formulário de contato funcione, você também precisará criar uma conta no EmailJS e modificar o arquivo ```src/components/contact.jsx``` para substituir pelo seu próprio ID de serviço, ID de template e Chave Pública.
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+## Créditos
+##### Free CSS
+<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com</a>
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
-
-
-Testando
+##### V&P Innovations
